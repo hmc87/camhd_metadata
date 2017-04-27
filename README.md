@@ -3,7 +3,7 @@ Undergraduate students at Rutgers University have used still frames extracted fr
 
 Since 2016-06-28, CAMHD has been recording the timing of scenes in metadata files, which can be identified on the raw data archive (see link below) via the .log extension. For video files prior to 2016-06-28, the students are reproducing metadata being stored in csv files on this archive.
 
-## References
+## Links
 Live Video: http://oceanobservatories.org/streaming-underwater-video/   
 Timelapse Videos: http://oceanobservatories.org/2017/02/axial-seamount-hydrothermal-vent-time-lapse-videos/   
 Raw Data Archive: https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/  
@@ -11,3 +11,6 @@ Raw Data Archive: https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06
 ## Additional Resources
 PyCamHD: https://github.com/tjcrone/pycamhd   
 CamHDHub: https://github.com/tjcrone/camhdhub   
+
+## QA/QC References
+Knuth et al. 2016 http://ieeexplore.ieee.org/document/7761396/?reload=true
