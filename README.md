@@ -1,7 +1,7 @@
 # CAMHD Metadata
-Undergraduate students at Rutgers University have used still frames extracted from the HD Video camera (CAMHD) to compile time-lapse videos of the hydrothermal vent, under the direction of the OOI Data Team. There are 7 biological scenes of interest, captured during the pan/zoom routine of each video. The students are helping produce metadata, stored in this repository, by time-stamping each scene of interest in every video file on the archive.
+There are 8 scenes of scientific interest being recorded at different zoom levels during the daily automated CAMHD pan/zoom sequences. Students at Rutgers University, under the supervision of the OOI Data Team, are helping produce metadata by time-stamping each scene of interest and storing this information in csv files in this repository. 
 
-Since 2016-06-28, CAMHD has been recording the timing of scenes in metadata files, which can be identified on the raw data archive (see link below) via the .log extension. For video files prior to 2016-06-28, the students are reproducing metadata being stored in csv files on this archive.
+Since 2016-06-28, metadata creation has been automated and can be found on the raw data archive (see link below) in the .log files. For video files prior to 2016-06-28, metadata on the timing of scenes is being manually compiled and made available here via csv.
 
 ## Links
 Live Video: http://oceanobservatories.org/streaming-underwater-video/   
