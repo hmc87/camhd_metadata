@@ -7,5 +7,5 @@ Timelapse Videos: http://oceanobservatories.org/2017/02/axial-seamount-hydrother
 Raw Data Archive: https://rawdata.oceanobservatories.org/files/RS03ASHS/PN03B/06-CAMHDA301/  
 
 ## Additional Resources
-PyCamHD: https://github.com/tjcrone/pycamhd
-CamHDHub: https://github.com/tjcrone/camhdhub
+PyCamHD: https://github.com/tjcrone/pycamhd   
+CamHDHub: https://github.com/tjcrone/camhdhub   
