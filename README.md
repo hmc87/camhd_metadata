@@ -13,4 +13,4 @@ PyCamHD: https://github.com/tjcrone/pycamhd
 CamHDHub: https://github.com/tjcrone/camhdhub   
 
 ## QA/QC References
-Knuth et al. 2016 http://ieeexplore.ieee.org/document/7761396/?reload=true
+[Automated QA/QC and time series analysis on OOI high-definition video data](http://ieeexplore.ieee.org/document/7761396/?reload=true)
